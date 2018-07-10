@@ -1,2 +1,2 @@
-# oxAuth_lib
+# ThumbSignInJavaSDK
 Thumbsignin sdk jar file
